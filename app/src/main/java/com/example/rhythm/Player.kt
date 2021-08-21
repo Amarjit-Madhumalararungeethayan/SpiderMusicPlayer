@@ -37,7 +37,6 @@ class Player : AppCompatActivity() {
             }
         }
 
-
         // Volume Bar
         binding.vol.setOnSeekBarChangeListener(
             object : SeekBar.OnSeekBarChangeListener {
